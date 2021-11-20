@@ -1416,6 +1416,9 @@ section {
   .breadcrumbs ol {
     margin-top: 10px;
   }
+  .responsive{
+    padding-top: 50px;
+  }
 }
 .breadcrumbs ol li + li {
   padding-left: 10px;
