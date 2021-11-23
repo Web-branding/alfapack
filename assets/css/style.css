@@ -1641,7 +1641,7 @@ section {
   animation: a-six 5s infinite linear;
 }
 .page-title-four {
-  background-image: url(../img/banner1.jpeg);
+  background-image: url(../img/aboutbanner.jpeg);
 
 }
 .page-title-three {
@@ -1735,7 +1735,7 @@ section {
 }
 .image {
   /* transition: transform .6s ease; */
-  background: url("../img/about1.jpeg") center center no-repeat;
+  background: url("../img/g7.jpeg") center center no-repeat;
   background-size: cover;
   min-height: 335px;
   border-radius: 30px;
