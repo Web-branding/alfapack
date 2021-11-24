@@ -260,6 +260,32 @@ h1, h2, h3, h4, h5, h6 {
   .navbar ul {
     display: none;
   }
+  .team1{
+    width: 90% !important;
+  }
+  .features .nav-link h4 {
+    font-size: 11px !important;
+    font-weight: 600;
+    margin: 0;
+}
+  .section-title1 h2::before{
+    content: "";
+    width: 120px;
+    display: none !important;
+    height: 1px;
+    visibility: hidden;
+    background: #b5432b;
+    margin: 4px 10px;
+  }
+  .section-title1 h2::after {
+    content: "";
+    width: 120px;
+    display: none !important;
+    height: 1px;
+    display: inline-block;
+    background: #b5432b;
+    margin: 4px 10px;
+}
 }
 .navbar-mobile {
   position: fixed;
